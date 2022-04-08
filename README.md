@@ -14,10 +14,10 @@ entiendo ya que no tengo los diseños como los favoritos y el de compartir. Sin 
 configuración para realizarlo. Espero que disfruten el proyecto como yo realicé hacerlo. Bendiciones.
 
 Aquí hay algunos pantallazos del proyecto.
+```
 ![Pantallazo 1](https://raw.githubusercontent.com/brayhanstiv/pokedex/master/src/assets/img/Captura%20de%20Pantalla%202022-04-08%20a%20la(s)%2010.06.27%20a.%C2%A0m..png)
 
 ![Pantallazo 2](https://raw.githubusercontent.com/brayhanstiv/pokedex/master/src/assets/img/Captura%20de%20Pantalla%202022-04-08%20a%20la(s)%2010.06.43%20a.%C2%A0m..png)
-```
 
 ### Compiles and hot-reloads for development
 ```
