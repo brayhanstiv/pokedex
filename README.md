@@ -7,7 +7,7 @@ npm install
 
 ## Summary
 ```
-Este proyecto es un pequeño ejemplo para de un de un repo de pokemons hecho en Vue.js, basado en la página 
+Este proyecto es un pequeño ejemplo de un repo de pokemons hecho en Vue.js, basado en la página 
 www.pokemon.com/us.
 
 Aquí hay algunos pantallazos del proyecto.
