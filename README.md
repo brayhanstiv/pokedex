@@ -7,11 +7,8 @@ npm install
 
 ## Summary
 ```
-Este proyecto es un pequeño ejemplo para la prueba presentada para la empresa de Ubanku hecha en Vue.Js,
-cabe destacar que la prueba fué enviada con estilos en móvil pero con requerimientos de web, sin embargo 
-traté de solucionar y basé de la página https://www.pokemon.com/us. Hay algunos requerimientos que no 
-entiendo ya que no tengo los diseños como los favoritos y el de compartir. Sin embargo quedó toda la 
-configuración para realizarlo. Espero que disfruten el proyecto como yo realicé hacerlo. Bendiciones.
+Este proyecto es un pequeño ejemplo para de un de un repo de pokemons hecho en Vue.js, basado en la página 
+www.pokemon.com/us.
 
 Aquí hay algunos pantallazos del proyecto.
 ```
